@@ -5,4 +5,5 @@ ante situaciones como esta:
 ¿Qué ocurre si la entrada es un número negativo?
 Escriba un fichero Rakefile de manera que al escribir en la línea de comandos rake test se ejecuten todas 
 las pruebas que ha programado.
+
 2) Indique la URL del repositorio github o bitbucket que contiene la solución que ha desarrollado.
